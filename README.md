@@ -1,5 +1,5 @@
 # Dot-Loader
-Dot Loader is a custom styled preloader made just for fun. 
+A custom styled preloader for your webpage. 
 
 ## Installation
   1. Download the zip file and extract it to your desired destination
